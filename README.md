@@ -1,4 +1,4 @@
-# Database_demo
+# Database_e-commerce 
 # E-commerce Database
 Execute the `e-commerce.sql` file to create the database and tables with sample data.
 Execute the `queries.sql` file to create views and sample queries.
